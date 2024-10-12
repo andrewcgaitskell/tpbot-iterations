@@ -1,4 +1,4 @@
-let Kp = 1.05 // Proportional constant for adjustment
+let Kp = 0.2 // Proportional constant for adjustment
 let smoothingFactor = 0.7 // Smoothing factor for error (between 0 and 1)
 let smoothError = 0 // Variable to store the smoothed error
 let error = 0 // Variable to store the current error
